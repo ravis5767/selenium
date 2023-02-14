@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-01T12:22:12 IST" name="Default suite" finished-at="2022-11-01T12:22:40 IST" duration-ms="28159">
+    <groups>
+    </groups>
+    <test started-at="2022-11-01T12:22:12 IST" name="Default test" finished-at="2022-11-01T12:22:40 IST" duration-ms="28159">
+      <class name="scripts.TestCase1">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:scripts.TestCase1@101952da]" started-at="2022-11-01T12:22:12 IST" name="openApp" finished-at="2022-11-01T12:22:24 IST" duration-ms="11982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="tC1()[pri:0, instance:scripts.TestCase1@101952da]" started-at="2022-11-01T12:22:24 IST" name="tC1" finished-at="2022-11-01T12:22:40 IST" duration-ms="15469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC1 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:scripts.TestCase1@101952da]" started-at="2022-11-01T12:22:40 IST" name="closeApp" finished-at="2022-11-01T12:22:40 IST" duration-ms="634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- scripts.TestCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
